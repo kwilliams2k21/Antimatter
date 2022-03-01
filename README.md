@@ -1,6 +1,8 @@
 # Antimatter
-Group project /n
+Group project
+
 Project Requirement
+
 You must implement a robot that can carry out the mission described in the previous section;
 however, how this is done will depend on your group's creativity. The only requirements are that
 the robot must be able to:
