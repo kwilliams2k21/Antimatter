@@ -9,8 +9,8 @@ if __name__ == '__main__':
         ip = sys.argv[1]
     else:
         ip = '127.0.0.1'
-    client_socket = connect_to_relay(ip=ip)
-    client_socket = connect_to_relay()
+    client_socket = connect_to_relay(ip = ip)
+    ##client_socket = connect_to_relay()
     try:
         isDone = False
         while not isDone:
